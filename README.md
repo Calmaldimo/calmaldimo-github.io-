@@ -1,1 +1,16 @@
 # calmaldimo-github.io-
+%nav.cf
+  %ul.cf
+    %li 
+      %a{:href => "#"} Item 0
+    %li 
+      %a{:href => "#"} Item 1
+    %li 
+      %a{:href => "#"} Item 2
+    %li 
+      %a{:href => "#"} Item 3
+  
+  %a{:href => "#", :id => "openup"} MENU
+  
+%h1 Basic Responsive Menu
+%p Playing around and learning HAML + SCSS - Basic Responsive Menu.
